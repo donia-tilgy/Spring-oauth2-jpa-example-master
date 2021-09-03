@@ -8,3 +8,4 @@ https://projects.spring.io/spring-security-oauth/docs/oauth2.html
 This repository supports the following video tutorial: https://www.youtube.com/watch?v=0pD7YeTAUkk, made on the 14/04/2017.
 # Spring-oauth2-jpa-example-master
 # Spring-oauth2-jpa-example-master
+# Spring-oauth2-jpa-example
